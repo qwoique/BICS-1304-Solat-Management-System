@@ -32,7 +32,7 @@ The primary goal of this project is to apply object-oriented programming princip
 
 <H2>Task Distributions</H2>
 
-<H3>Naufal (2415143) : MainApp, PrayerSchedule</H3>
+<H3>Naufal (2415143) : App, PrayerSchedule</H3>
 <H3>Adam (2417235) : FileDataPersistanceService, User</H3>
 <H3>Syahiran (2418369) : MosqueStaff, SolatManagementSystem</H3>
 
