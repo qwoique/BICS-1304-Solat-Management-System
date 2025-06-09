@@ -1,5 +1,8 @@
 # BICS-1304-Solat-Management-System
+<H1>Group Name : Tob Tob Tob</H1>
+
 <H2>Project Goals :</H2>
+
 The primary goal of this project is to apply object-oriented programming principles to solve a real-world problem. The key objectives are:
 
 - To Digitize Manual Processes: Replace inefficient manual scheduling methods (like whiteboards or logbooks) with a robust digital solution.
@@ -28,6 +31,7 @@ The primary goal of this project is to apply object-oriented programming princip
 - Data Persistence: All staff and schedule data is saved locally to .txt files, so information is never lost between sessions.
 
 <H2>Task Distributions</H2>
+
 <H3>Naufal (2415143) : MainApp, PrayerSchedule</H3>
 <H3>Adam (2417235) : FileDataPersistanceService, User</H3>
 <H3>Syahiran (2418369) : MosqueStaff, SolatManagementSystem</H3>
@@ -47,3 +51,13 @@ The primary goal of this project is to apply object-oriented programming princip
 6. Select the project and click "Open Project".
 7. NetBeans will automatically download the required JavaFX libraries specified in the pom.xml file.
 8. Right-click the project in the "Projects" pane and select "Run". The application should start.
+
+
+<H2>Instructions on how to register</H2>
+
+1. Click on the register button on the login page
+2. Insert user ID, name and password for the user
+3. Click register
+4. Go back to the login page
+5. Insert info on the page
+6. Click login
