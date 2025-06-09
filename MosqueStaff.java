@@ -10,10 +10,8 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
-
-/**
- *
- * @author User
+/*
+ * SYAHIRAN 2418369
  */
 public class MosqueStaff extends User {
     private String passwordHash;
