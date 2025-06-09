@@ -27,8 +27,10 @@ The primary goal of this project is to apply object-oriented programming princip
 
 - Data Persistence: All staff and schedule data is saved locally to .txt files, so information is never lost between sessions.
 
-Method 1: The Easy Way (Opening as a Maven Project)
-If the project you downloaded includes a pom.xml file, NetBeans can handle everything automatically. This is the recommended approach.
+<H2>Task Distributions</H2>
+<H3>Naufal (2415143) : MainApp, PrayerSchedule</H3>
+<H3>Adam (2417235) : FileDataPersistanceService, User</H3>
+<H3>Syahiran (2418369) : MosqueStaff, SolatManagementSystem</H3>
 
 <H2>Prerequisites:</H2>
 
