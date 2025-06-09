@@ -5,7 +5,9 @@
 package com.mycompany.grupprojekoop;
 
 import java.util.ArrayList;
-
+/*
+ * SYAHIRAN 2418369
+ */
 public class SolatManagementSystem {
     private ArrayList<PrayerSchedule> prayerSchedules;
     private ArrayList<MosqueStaff> mosqueStaffList;
